@@ -4,6 +4,6 @@ Created by RFAH as part of trying to figure out how all these things hand togeth
 List
 
 1. first point
-2. 2. Second point
+2. Second point
 
 No third point
